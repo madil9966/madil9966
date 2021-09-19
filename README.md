@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @madil9966
+- 👋 Hi, I’m Adil a 22 years old energetic Computer Science graduate from one of the most prestigious institues of Pakistan University of Engineering & Technology, Taxila (UETT)
 - 👀 I’m interested in Web Development, Android App Development, & Artificial Intelligence
 - 🌱 I’m currently learning MERN Stack Development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on different open source projects of mentioned fields
 - 📫 You can reach me at the following E-mail Address
 muhammad92adil105@gmail.com
 
