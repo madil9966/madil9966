@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Adil a 23 years old energetic Computer Science graduate from one of the most prestigious institues of Pakistan University of Engineering & Technology, Taxila (UETT)
-- 👀 I’m interested in Web Development, Android App Development, & Artificial Intelligence
-- 🌱 I’m currently learning MERN Stack Development
-- 💞️ I’m looking to collaborate on different open source projects of mentioned fields
+- 👋 Hi, I’m Adil a 24 years old energetic Computer Science graduate from one of the most prestigious institutes of Pakistan University of Engineering & Technology, Taxila (UETT)
+- 👀 I’m interested in Web Development & Artificial Intelligence.
+- 💞️ I’m looking to collaborate on different open-source projects in mentioned fields
 - 📫 You can reach me at the following E-mail Address
 muhammad92adil105@gmail.com
 
